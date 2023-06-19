@@ -22,12 +22,15 @@ Web-Grundlagen 3.pdf
 Web-Grundlagen 4.pdf
 JavaScript.pdf
 
+# hide working directory
+_work/
+
 # ignore all solutions, remove these entries if you want to commit the solutions
 # html-css/exercise-*
 # javascript/*/solution
 
 # hide html-css solutions:
-html-css/exercise-03/
+# html-css/exercise-03/
 html-css/exercise-04/
 html-css/exercise-05/
 html-css/exercise-06/
