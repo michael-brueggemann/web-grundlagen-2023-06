@@ -20,7 +20,7 @@ slides/*.pptx
 # Web-Grundlagen 2.pdf
 # Web-Grundlagen 3.pdf
 # Web-Grundlagen 4.pdf
-JavaScript.pdf
+# JavaScript.pdf
 
 # hide working directory
 _work/
@@ -49,8 +49,8 @@ _work/
 # html-css/exercise-19/
 # html-css/exercise-20/
 # html-css/exercise-21/
-html-css/exercise-22/
-html-css/exercise-23/
+# html-css/exercise-22/
+# html-css/exercise-23/
 
 # hide javascript solutions:
 javascript/01*/solution/
