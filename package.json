@@ -7,7 +7,6 @@
   "scripts": {
     "parcel": "parcel",
     "example": "parcel ./javascript/example/index.html",
-    "work": "parcel ./javascript/02-Taschenrechner/sample/index.html",
     "js01solution": "parcel ./javascript/01-helloWorld/solution/index.html",
     "js02solution": "parcel ./javascript/02-Taschenrechner/solution/index.html",
     "js03solution": "parcel ./javascript/03-Taschenrechner-class/solution/index.html",
